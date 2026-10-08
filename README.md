@@ -22,19 +22,27 @@ program ini digunakan untuk mencatat dan melihat data stok barang pada sebuah to
 #Hasil Output Program
 
 1. Daftar Barang
-Screenshot ini menunjukkan tampilan daftar barang saat program dijalankan.awalnya belum ada data barang yang tersimpan.
-![Daftar barang](Daftar_barang.png)
 
- 2. Tambah Data Barang
+Screenshot ini menunjukkan tampilan daftar barang saat program dijalankan.awalnya belum ada data barang yang tersimpan.
+
+![Daftar barang](Daftar%20barang.png)
+
+2. Tambah Data Barang
+
 Screenshot ini menunjukkan proses menambahkan data barang baru, yaitu Headset Bluetooth dengan stok 10 pcs.
-![Tambah data barang](Tambah_databarang.png)
+
+![Tambah data barang](Tambah%20data%20barang.png)
 
 3. Lihat Daftar Barang
-Screenshot ini menunjukkan data Headset Bluetooth yang berhasil ditambahkan dan sudah muncul di daftar inventaris.
-![Lihat data barang](Lihat_data_barang.png)
 
- 4. Keluar Program
+Screenshot ini menunjukkan data Headset Bluetooth yang berhasil ditambahkan dan sudah muncul di daftar inventaris.
+
+![Lihat data barang](Lihat%20data%20barang.png)
+
+4. Keluar Program
+
 Screenshot ini menunjukkan program berhasil dihentikan setelah pengguna memilih menu keluar.
+
 ![Keluar](Keluar.png)
 
 
