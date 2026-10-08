@@ -27,11 +27,11 @@ Screenshot ini menunjukkan tampilan daftar barang saat program dijalankan.awalny
 
  2. Tambah Data Barang
 Screenshot ini menunjukkan proses menambahkan data barang baru, yaitu Headset Bluetooth dengan stok 10 pcs.
-![Tambah daftar barang](Tambah_daftar_barang.png)
+![Tambah data barang](Tambah_data_barang.png)
 
 3. Lihat Daftar Barang
 Screenshot ini menunjukkan data Headset Bluetooth yang berhasil ditambahkan dan sudah muncul di daftar inventaris.
-![Lihat daftar barang](Lihat_daftar_barang.png)
+![Lihat data barang](Lihat_data_barang.png)
 
  4. Keluar Program
 Screenshot ini menunjukkan program berhasil dihentikan setelah pengguna memilih menu keluar.
